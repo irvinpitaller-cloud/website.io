@@ -409,6 +409,3 @@ Herrajes únicos 35+ Códigos A-XXXX
 Curvas de viento 6 A–F, 45–220 kg/m²
 Vidrios soportados 3 6mm, Duo 6+1/4+6, Duo 6+3/8+6
 
----
-
-¿Necesitas que genere el script SQL completo para crear la base de datos, o un archivo JSON con toda la estructura para importar directamente? También puedo desarrollar el motor paramétrico en Python/JavaScript con pruebas unitarias.
